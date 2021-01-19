@@ -16,6 +16,10 @@ gem 'puma', '~> 4.1'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# New gems
+gem ‘rest-client’, ‘~> 2.1’ 
+gem ‘dotenv’
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
